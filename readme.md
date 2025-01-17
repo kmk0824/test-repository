@@ -5,5 +5,5 @@ print("git hub")
 from pycbc as flame
  ****
 
- ![s](https://youtube.com)
+ ![typing](file:///C:/Users/82109/Downloads/typing_effect.html)
  
